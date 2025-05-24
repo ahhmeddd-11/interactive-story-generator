@@ -42,17 +42,17 @@ Make sure you have the following installed:
 #### Run the app:
     python story_generator.py
 
-#### The project uses JSON files that include:
+## The project uses JSON files that include:
   Story templates
   Character profiles
   Plot branches
   Dialogue options
 
-#### 🤖 Generator Logic
+## 🤖 Generator Logic
 The generator uses a combination of template-based story generation and randomized elements to create unique narratives. User choices determine the path through the story branches.
 
-#### 📌 Author
+## 📌 Author
 Syed Ahmed Ali – syedahmed4957@gmail.com
 
-#### 📝 License
+## 📝 License
 This project is open-source and available under the MIT License.
