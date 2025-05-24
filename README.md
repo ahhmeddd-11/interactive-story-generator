@@ -11,7 +11,7 @@ This project generates interactive stories based on user inputs, creating dynami
 - Randomized elements for varied storytelling
 
 ## Live Preview
-Follow the link to get the live preview: [Add your live preview link here if available]
+Follow the link to get the live preview: [https://interactive-story-generator.streamlit.app/]
 
 ## 📂 Project Structure
     ├── story_generator.py # Main application script
