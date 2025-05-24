@@ -66,7 +66,7 @@ def generate_story(prompt, history, temperature, max_tokens, top_p):
 st.set_page_config(page_title="Interactive Story Generator", layout="wide")
 st.title("🎭 Interactive Story Generator")
 st.markdown("Prepared by: Syed Ahmed Ali")
-st.markdown("Expand the side bar (>) and select you themes!")
+st.markdown("Expand the side bar (>) and select your story styles!")
 st.markdown("Let AI create a unique storytelling experience for you. Choose your story style, theme, add character settings, then describe a scene to start your story. Interact with AI to continue developing the plot!")
 
 # Tabs
