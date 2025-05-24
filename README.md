@@ -14,10 +14,10 @@ This project generates interactive stories based on user inputs, creating dynami
 Follow the link to get the live preview: [Add your live preview link here if available]
 
 ## 📂 Project Structure
-├── story_generator.py # Main application script
-├── story_templates.json # Story templates and branches
-├── characters.json # Character database
-├── README.md # Project documentation
+    ├── story_generator.py # Main application script
+    ├── story_templates.json # Story templates and branches
+    ├── characters.json # Character database
+    ├── README.md # Project documentation
 
 
 ## 🚀 How to Run the Project
