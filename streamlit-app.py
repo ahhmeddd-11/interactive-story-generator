@@ -9,7 +9,7 @@ load_dotenv()
 
 # Constants
 STORY_THEMES = [
-    "Adventure", "Mystery", "Romance", "Historical", "Slice of Life", "Fairy Tale"
+    "Adventure", "Mystery", "Romantic", "Historical", "Slice of Life", "Fairy Tale"
 ]
 CHARACTER_TEMPLATES = {
     "Adventurer": "A brave and fearless explorer who loves adventure and challenges.",
